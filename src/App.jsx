@@ -131,7 +131,7 @@ function App() {
         title: "FundingPe",
         category: "Featured Project",
         role: "Mobile App Developer",
-        duration: "2024",
+        duration: "2025",
         description: "A comprehensive mobile financial management application built with React Native and TypeScript. Features include modern UI components, cross-platform compatibility, SafeAreaView implementation, and robust navigation system. The app showcases professional purple-themed interface with optimized user experience and scalable architecture.",
         highlights: [
           "Modern Mobile Architecture with React Native and TypeScript",
