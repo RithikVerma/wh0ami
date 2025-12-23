@@ -66,8 +66,8 @@ function App() {
         category: "personal",
         description: "modern, responsive portfolio website using react and vite. features include theme switching, smooth animations, and seo optimization.",
         tech: ["react", "vite", "css3"],
-        liveLink: "https://rithik-portfoli0.vercel.app/",
-        githubLink: "https://github.com/RithikVerma/portfolio"
+        liveLink: "https://wh0rithik.vercel.app/",
+        githubLink: "https://github.com/RithikVerma/wh0ami"
       },
 
       {
