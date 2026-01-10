@@ -368,11 +368,6 @@ body {
   font-size: var(--font-size-sm);
   color: var(--text-primary);
   text-transform: lowercase;
-  transition: all 0.2s ease;
-}
-
-.skill-tag:hover {
-  border-color: var(--text-primary);
 }
 
 /* Contact Section */
